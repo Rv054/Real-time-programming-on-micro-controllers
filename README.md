@@ -5,4 +5,4 @@ Tasks like Warmup basics of Arduino, TimeSlicing in Arduino, PWM - Control Ardui
 The Arduino Uno is attached to a breadboard where the components can be connected to the Arduino board and programmed. Eclipse IDE was used to program the Arduino and Keil board in C language. Each task folder will contain a README file for task description. 
 <br>
 ![Arduino Board](./Arduino-Components.png)
-![Keil Board](./Keil_board.jpg)
+![Keil Board](./Keil.jpg)
